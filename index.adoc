@@ -1,0 +1,3 @@
+= Sharing tips about Asciidoctor-revealjs
+
+include::how-to-setup.adoc[]
